@@ -12,4 +12,4 @@ libraries used!
 
 ## How to run
 pip install numpy matplotlib
-python3 ur5e_pick_and_place.py
+python3 IK_plot.py
